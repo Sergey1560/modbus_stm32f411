@@ -1,6 +1,6 @@
 # Modbus RTU example for STM32F411
 
-This is an example of working with the Modbus RTU protocol using STM32F411 dev board from [https://github.com/WeActTC/MiniSTM32F4x1](WeAct Studio)
+This is an example of working with the Modbus RTU protocol using STM32F411 dev board from [WeAct Studio](https://github.com/WeActTC/MiniSTM32F4x1)
 
 The library [FreeMODBUS](https://www.embedded-experts.at/en/freemodbus/about/) v1.6 is used to work with Modbus protcol.
 
