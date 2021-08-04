@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "port.h": "c"
+    },
+    "search.exclude": {
+        "**/.git": true,
+        "**/build": true
+    },
+ 
+}
